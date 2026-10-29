@@ -1,0 +1,4 @@
+Medicine Name,Strength,Dosage Form,Manufacturer,Batch No,Expiry,Qty,Purchase Rate,MRP,Unit,Min Stock
+Paracetamol,500 mg,Tablet,Demo Pharma,PCM2401,03/2027,40,22,28,strip,10
+Cetirizine,10 mg,Tablet,Sample Labs,CTZ118,15/01/2027,25,18,23,strip,5
+Amoxicillin,500 mg,Capsule,Sample Labs,AMX55,2026-12-31,12,75,94,strip,4
